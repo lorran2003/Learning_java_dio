@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/area_quadrado/area_quadrado.iml" filepath="$PROJECT_DIR$/area_quadrado/area_quadrado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/area_retangulo/area_retangulo.iml" filepath="$PROJECT_DIR$/area_retangulo/area_retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculo_imc/calculo_imc.iml" filepath="$PROJECT_DIR$/calculo_imc/calculo_imc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diferenca_de_idade/diferenca_de_idade.iml" filepath="$PROJECT_DIR$/diferenca_de_idade/diferenca_de_idade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio_study.iml" filepath="$PROJECT_DIR$/.idea/dio_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generate_tabuada/generate_tabuada.iml" filepath="$PROJECT_DIR$/generate_tabuada/generate_tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/satandart/satandart.iml" filepath="$PROJECT_DIR$/satandart/satandart.iml" />
+    </modules>
+  </component>
+</project>
